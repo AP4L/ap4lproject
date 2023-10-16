@@ -1,1 +1,80 @@
+---
+layout: post
+title:  "Welcome to AP4L!"
+---
+![alt text](Newversionbluebackground.jpg)
 
+# Welcome
+
+**Hello**
+Welcome to the first of our monthly AP4L bulletins! AP4L has reached the halfway mark now in the
+three year process, and with some exciting developments already under our belts, and many more to
+come, we wanted to share our progress with you.
+
+Each month we will be sharing with you some of our outputs, developments and latest news from a
+different area of the project. This month, I am going to give you an overview of AP4L, and next
+month, we will share more on our Public Involvement in Privacy (PIP) Panel, which is proving to be a
+pivotal part of AP4L.
+
+So, what is the AP4L project all about? Well, sometimes, life “just happens”. Be it divorce, being
+diagnosed with a serious illness, leaving the armed forces, or deciding to come out as gay or
+transitioning gender, these moments in time can be very emotional, distressing and people do not
+typically have the “bandwidth” to stop and consider their online safety and privacy during these
+difficult life transitions.
+
+In the case of a relationship breakdown for instance, a couple may have a shared online identity,
+which needs to be separated without compromising each person’s privacy. With a serious illness,
+perhaps the person has cancer and needs a family member to take over their financial affairs while
+they have treatment, this exposes the individual to potential online harm if the person they trust
+doesn’t have their best interests at heart. When coming out, perhaps an individual wants to come
+out to trusted friends, but they aren’t ready for their grandparents to know, so this all has to be
+navigated online.
+
+In order to address such issues, the AP4L Project is committed to the following objectives,
+concentrating on the aforementioned life transitions:
+
+1. Develop scientific & theoretical foundations to understand challenges
+2. Design and evaluate 3 core innovations (Risk Playgrounds, Transition Guardians, Security
+Bubbles) to address these challenges
+3. Work with REPHRAIN to develop these innovations into “citizen-ready” tools
+
+With a 30 strong team of computer scientists, psychologists, legal experts and criminologists working
+across 6 UK universities on this project, we have made great strides already with the first two
+commitments above. Academics from University of Strathclyde, Surrey, Edinburgh and Edge Hill have
+been working on the first workstream - to develop a holistic understanding of online privacy and
+vulnerability during life transitions, working with people and institutions. So far this includes surveys
+on 400 participants and workshops across the life transitions, which has yielded extremely
+interesting insights that we will delve into in a future blog post.
+
+All the results of this work are then fed into the second workstream, led by University of Surrey,
+which is developing the three main technological responses. For each innovation novel
+privacy-preserving algorithms are being developed, as well as protocols, machine learning models
+and other research prototypes. The three developments are:
+
+1. Risk Playground - Inspired by the “Adventure Playground” concept which deliberately
+includes risky elements to promote a better understanding of risk among children. Risk
+Playgrounds will enable citizens to interactively explore vulnerabilities in immersive settings
+to build an understanding of risks and develop robust responses. Scenarios will be developed
+via user studies, and prototypes to be co-created with stakeholders.
+
+2. Transition Guardians - these are designed to provide real-time protection to users during life
+transitions, with warnings against common frauds or scams and trigger warnings or blocking
+content. These should strike a balance between hampering online experience through
+overprotection and creating risk through underprotection. The Transition Guardians will also
+be customisable for individual users and life transitions.
+
+3. Security Bubbles - Inspired by COVID support bubbles, these are designed to bring together
+users who can help each other (or need to work together) during a life transition, whilst
+providing additional guarantees to safeguard everyone involved.
+
+These tools will then be evaluated by the third workstream, led by QMUL, University of Cambridge
+and Strathclyde, who will work with project partners, policy makers and the wider community to
+deploy AP4L solutions in the online lives of citizens navigating life transitions. In other words, making
+the tools developed by AP4L “citizen-ready”.
+
+Our next blog post will talk about a key methodological innovation that we have introduced, and is
+informing every aspect of our project --- the Public Involvement in Privacy (PIP) Panel. Borrowing
+from healthcare, where Patient and Public Involvement is recognised as a “best practice” approach,
+the PIP panel applies this concept to learn from and actively co-design our research with citizens who
+have lived experience of life transitions and faced security/privacy challenges as a result. Learn more
+in next month’s blog post!
